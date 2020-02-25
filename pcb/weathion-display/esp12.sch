@@ -371,4 +371,8 @@ Wire Wire Line
 	4400 3200 4500 3200
 Wire Wire Line
 	4400 3300 4500 3300
+Text GLabel 4400 3100 0    50   Input ~ 0
+Relay
+Wire Wire Line
+	4500 3100 4400 3100
 $EndSCHEMATC

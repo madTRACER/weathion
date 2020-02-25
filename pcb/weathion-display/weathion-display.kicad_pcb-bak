@@ -352,7 +352,7 @@
     (pad 22 smd rect (at 7.6 -3.5) (size 2.5 1) (layers F.Cu F.Paste F.Mask)
       (net 8 ESP_TX))
     (model ${KICAD_BASE}/step/Module.3dshapes/ESP_12_E.STEP
-      (offset (xyz -8 12 0.5))
+      (offset (xyz -8 12 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )

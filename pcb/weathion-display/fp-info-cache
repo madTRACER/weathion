@@ -1,0 +1,1058 @@
+237746033208752
+Battery_Holder
+KEYSTONE_1024
+
+
+0
+4
+2
+Battery_Holder
+QJ1220-2SMT
+
+
+0
+2
+2
+Capacitors
+C_0402
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Capacitors
+C_0603
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Capacitors
+C_0805
+Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Capacitors
+C_1206
+Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Capacitors_Tantalum
+CP_EIA-3216-18_Kemet-A
+Tantalum Capacitor SMD Kemet-A (3216-18 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitors_Tantalum
+CP_EIA-3528-15_AVX-H
+Tantalum Capacitor SMD AVX-H (3528-15 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Capacitors_Tantalum
+CP_EIA-7343-30_AVX-N
+Tantalum Capacitor SMD AVX-N (7343-30 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+Connector_Header
+FemaleHeader_2x04_P2.54mm_Vertical
+Through hole straight socket strip, 2x04, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x04 2.54mm double row
+0
+8
+8
+Connector_Header
+FemaleHeader_2x05_P2.54mm_Vertical
+Through hole straight socket strip, 2x05, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x05 2.54mm double row
+0
+10
+10
+Connector_Header
+MOLEX_87832-1420
+
+
+0
+14
+14
+Connector_Header
+PinHeader_1x01_P2.54mm_Vertical
+
+
+0
+1
+1
+Connector_Header
+PinHeader_1x02_P2.54mm_Vertical
+
+
+0
+2
+2
+Connector_Header
+PinHeader_1x03_P2.54mm_Vertical
+Through hole straight pin header, 1x03, 2.54mm pitch, single row
+Through hole pin header THT 1x03 2.54mm single row
+0
+3
+3
+Connector_Header
+PinHeader_1x04_P2.54mm_Vertical
+
+
+0
+4
+4
+Connector_Header
+PinHeader_1x05_P2.54mm_Vertical
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+Connector_Header
+PinHeader_1x07_P2.54mm_Vertical
+
+
+0
+7
+7
+Connector_Header
+PinHeader_1x08_P2.54mm_Vertical
+
+
+0
+8
+8
+Connector_Header
+PinHeader_1x10_P2.54mm_Vertical
+
+
+0
+10
+10
+Connector_Header
+PinHeader_1x12_P2.54mm_Vertical
+
+
+0
+12
+12
+Connector_Header
+PinHeader_2x05_P2.54mm_Vertical
+Through hole straight pin header, 2x05, 2.54mm pitch, double rows
+Through hole pin header THT 2x05 2.54mm double row
+0
+10
+10
+Connector_Header
+PinHeader_2x08_P2.54mm_Vertical
+Through hole straight pin header, 2x08, 2.54mm pitch, double rows
+Through hole pin header THT 2x08 2.54mm double row
+0
+16
+16
+Connector_Header
+PinHeader_2x17_P2.54mm_Vertical
+
+
+0
+34
+34
+Connector_Header
+PinHeader_2x20_P2.54mm_Vertical
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+40
+40
+Connector_Header
+WF-2(DS1070-2)
+
+
+0
+2
+2
+Connector_Header
+WF-3(DS1070-3)
+
+
+0
+3
+3
+Connector_IDC
+IDC-Header_2x05_P2.54mm_Vertical
+Through hole straight IDC box header, 2x05, 2.54mm pitch, double rows
+Through hole IDC box header THT 2x05 2.54mm double row
+0
+10
+10
+Connector_IDC
+IDC-Header_2x17_P2.54mm_Vertical
+
+
+0
+34
+34
+Connector_IDC
+IDC-Header_2x20_P2.54mm_Vertical
+Through hole straight IDC box header, 2x20, 2.54mm pitch, double rows
+Through hole IDC box header THT 2x20 2.54mm double row
+0
+40
+40
+Connector_Other
+Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical
+Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2030-IDC-NL.pdf
+tag connect programming header pogo pins
+0
+6
+6
+Connector_Other
+Tag-Connect_TC2050-IDC-FP_2x05_P1.27mm_Vertical
+Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2050-IDC-430%20Datasheet.pdf
+tag connect programming header pogo pins
+0
+10
+10
+Connector_Power
+MOLEX_4PIN
+
+
+0
+4
+4
+Connector_RF
+CONSMA001
+
+
+0
+5
+2
+Connector_RF
+CONSMA002
+
+
+0
+5
+2
+Connector_RF
+SMA_J01151A1271_EdgeMount
+https://media.telegaertner.com/orig/J01151A1271KP.pdf
+SMA
+0
+5
+2
+Connector_RF
+U.FL-R-SMT-1
+Hirose U.FL Coaxial https://www.hirose.com/product/en/products/U.FL/U.FL-R-SMT-1%2810%29/
+Hirose U.FL Coaxial
+0
+3
+2
+Connector_RJ
+DS1129-05-S80BP-X
+
+
+0
+19
+16
+Connector_RJ
+HR911105A
+
+
+0
+14
+14
+Connector_SIM
+SIM-08A
+
+
+0
+6
+6
+Connector_SIM
+SIM_HOLDER_6PIN
+
+
+0
+6
+6
+Connector_SIM
+SNO-1305-B
+
+
+0
+10
+8
+Connector_TerminalBlock
+KF15EDG-3.5_2P
+
+
+0
+2
+2
+Connector_TerminalBlock
+WJ500V-5.08-2P-14-00A
+
+
+0
+2
+2
+Connector_TerminalBlock
+WJ500V-5.08-3P-14-00A
+
+
+0
+3
+3
+Connector_USB
+USBAR04P-F000
+
+
+0
+6
+4
+Connector_USB
+USB_Micro-B_Molex_47346-0001
+Micro USB B receptable with flange, bottom-mount, SMD, right-angle (http://www.molex.com/pdm_docs/sd/473460001_sd.pdf)
+Micro B USB SMD
+0
+11
+5
+Crystal
+Crystal_CSA
+
+
+0
+2
+2
+Crystal
+Crystal_SMD_3225-4Pin_3.2x2.5mm
+SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystal
+Crystal_SMD_5032-2Pin_5.0x3.2mm
+SMD Crystal SERIES SMD2520/2 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, 5.0x3.2mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystal
+Crystal_SMD_HC49-SD
+SMD Crystal HC-49-SD http://cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf, 11.4x4.7mm^2 package
+SMD SMT crystal
+0
+2
+2
+Diodes
+DO-214AA
+
+
+0
+2
+2
+Diodes
+DO-214AC
+Diode SMA (DO-214AC)
+Diode SMA (DO-214AC)
+0
+2
+2
+Diodes
+SOD-123
+
+
+0
+2
+2
+Fuse
+Fuse_1206_3216Metric
+Fuse SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Fuse
+Fuse_1812_4532Metric
+Fuse SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Inductors
+50nH_THD
+
+
+0
+2
+2
+Inductors
+148-10J12L
+
+
+0
+2
+2
+Inductors
+BOURNS-SRN4018
+Bourns SRN4018 series SMD inductor, https://www.bourns.com/docs/Product-Datasheets/SRN4018.pdf
+Bourns SRN4018 SMD inductor
+0
+2
+2
+Inductors
+BOURNS_SRR1260
+Bourns SRR1260 series SMD inductor http://www.bourns.com/docs/Product-Datasheets/SRR1260.pdf
+Bourns SRR1260 SMD inductor
+0
+2
+2
+Inductors
+L_0603_1608Ceramic
+Inductor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+Inductors
+L_0603_1608Metric
+Inductor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+Inductors
+L_0805_2012Metric
+Inductor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+Jumper
+Jumper_0603
+Jumper SMD0603
+jumper
+0
+2
+2
+Jumper
+SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open
+solder jumper open
+0
+2
+2
+LED_DIP
+LED_5mm
+
+
+0
+2
+2
+LED_DIP
+LED_10mm
+
+
+0
+2
+2
+LED_DIP
+LED_D5.0mm
+LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf
+LED diameter 5.0mm 2 pins
+0
+2
+2
+LED_SMD
+LED_0603_BLUE
+
+diode
+0
+2
+2
+LED_SMD
+LED_0603_GREEN
+
+diode
+0
+2
+2
+LED_SMD
+LED_0603_RED
+
+diode
+0
+2
+2
+Logo
+Granit_15mm
+
+
+0
+0
+0
+Logo
+Granit_15mm_top
+
+
+0
+0
+0
+Logo
+Kicad_15mm
+
+
+0
+0
+0
+Logo
+Rick_5mm
+
+
+0
+0
+0
+Logo
+Rick_5mm_to_right
+
+
+0
+0
+0
+Logo
+Rick_10mm
+
+
+0
+0
+0
+Logo
+madTRACER
+
+
+0
+0
+0
+Logo
+madTRACER_Engineering
+
+
+0
+0
+0
+Logo
+madTRACER_Engineering_20mm
+
+
+0
+0
+0
+Logo
+madTRACER_Engineering_25mm
+
+
+0
+0
+0
+Module
+ESP-12E
+Wi-Fi Module, http://wiki.ai-thinker.com/_media/esp8266/docs/aithinker_esp_12f_datasheet_en.pdf
+Wi-Fi Module
+0
+22
+22
+Oscillator
+CFPT-9301
+
+
+0
+4
+4
+Oscillator
+Oscillator_SMD_SeikoEpson_SG8002LB-4Pin_5.0x3.2mm
+SMD Crystal Oscillator Seiko Epson SG-8002LB https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-8002DC, 5.0x3.2mm^2 package
+SMD SMT crystal oscillator
+0
+4
+4
+Package_DFN_QFN
+DFN-6-1EP_1.5x1.5mm_P0.5mm_EP0.85x1.35mm
+
+
+0
+7
+6
+Package_DFN_QFN
+DFN-8-1EP_1.5x1.5mm_P0.4mm_EP0.7x1.2mm
+
+
+0
+9
+9
+Package_DFN_QFN
+DFN-8-1EP_3x3mm_P0.65mm_EP1.55x2.4mm
+8-Lead Plastic Dual Flat, No Lead Package (MF) - 3x3x0.9 mm Body [DFN] (see Microchip Packaging Specification 00000049BS.pdf)
+DFN 0.65
+0
+13
+9
+Package_DFN_QFN
+QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias
+QFN, 20 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf (Page 274)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+30
+21
+Package_DFN_QFN
+QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias
+QFN, 24 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf (Page 278)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+39
+25
+Package_DFN_QFN
+QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm_ThermalVias
+QFN, 28 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=283), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+55
+29
+Package_DFN_QFN
+QFN-40-1EP_6x6mm_P0.5mm_EP4.1x4.1mm
+QFN, 40 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf (page 295)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+57
+41
+Package_QFP
+LQFP-100_14x14mm_P0.5mm
+LQFP100: plastic low profile quad flat package; 100 leads; body 14 x 14 x 1.4 mm (see NXP sot407-1_po.pdf and sot407-1_fr.pdf)
+QFP 0.5
+0
+100
+100
+Package_QFP
+TQFP-32_5x5_P0.5mm
+
+
+0
+32
+32
+Package_QFP
+TQFP-32_7x7_P0.8mm
+
+
+0
+32
+32
+Package_QFP
+TQFP-144_20x20mm_P0.5mm
+TQFP, 144 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_qfp_generator.py
+TQFP QFP
+0
+144
+144
+Package_QFP
+TQG-144_xilinx
+TQFP, 144 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_qfp_generator.py
+TQFP QFP
+0
+144
+144
+Package_SO
+SOIC-8-1EP
+
+SOIC 1.27
+0
+15
+9
+Package_SO
+SOIC-8_3.9x4.9mm_P1.27mm
+8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf)
+SOIC 1.27
+0
+8
+8
+Package_SO
+SOIC-8_5.3x5.3mm_P1.27mm
+8-Lead Plastic Small Outline (SM) - Medium, 5.28 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+8
+8
+Package_SO
+SOIC-16_9.3mm_1.27mm
+
+
+0
+16
+16
+Package_SO
+SOP-14
+
+
+0
+14
+14
+Package_SO
+SOP-16
+
+
+0
+16
+16
+Package_SO
+SOP-16_4.4x10.4mm_P1.27mm
+16-Lead Plastic Small Outline http://www.vishay.com/docs/49633/sg2098.pdf
+SOP 1.27
+0
+16
+16
+Package_SO
+SSOP-28_5.3x10.2mm_P0.65mm
+28-Lead Plastic Shrink Small Outline (SS)-5.30 mm Body [SSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+28
+28
+Package_SO
+TSSOP-8_3x3mm_P0.65mm
+TSSOP8: plastic thin shrink small outline package; 8 leads; body width 3 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot505-1_po.pdf)
+SSOP 0.65
+0
+8
+8
+Package_SO
+TSSOP-14
+14-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+14
+14
+Package_SO
+TSSOP-16
+16-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+16
+16
+Package_SO
+TSSOP-20
+
+
+0
+20
+20
+Package_SOT
+CA531
+
+
+0
+6
+6
+Package_SOT
+SC70-5
+
+SOT-363 SC70-6
+0
+5
+5
+Package_SOT
+SC70-6
+
+SOT-363 SC70-6
+0
+6
+6
+Package_SOT
+SOT-23
+SOT-23, Standard
+SOT-23
+0
+3
+3
+Package_SOT
+SOT-23-5
+5-pin SOT23 package
+SOT-23-5 hand-soldering
+0
+5
+5
+Package_SOT
+SOT-23-6
+6-pin SOT-23 package
+SOT-23-6
+0
+6
+6
+Package_SOT
+SOT-89-3
+SOT-89-3
+SOT-89-3
+0
+5
+3
+Package_SOT
+SOT-223
+module CMS SOT223 4 pins
+CMS SOT
+0
+4
+3
+Package_SOT
+TSOT-23-5
+5-pin TSOT23 package, http://cds.linear.com/docs/en/packaging/SOT_5_05-08-1635.pdf
+TSOT-23-5
+0
+5
+5
+Package_TO
+TO-263-5
+TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-5-1/
+D2PAK DDPAK TO-263 D2PAK-5 TO-263-5 SOT-426
+0
+10
+5
+Package_TO
+TO-263-5_TabPin6
+TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-5-1/
+D2PAK DDPAK TO-263 D2PAK-5 TO-263-5 SOT-426
+0
+10
+6
+Power_Module
+HLK-PM0x
+
+
+0
+4
+4
+RF_Antenna
+AN1603-433
+
+
+0
+2
+1
+RF_Antenna
+WK-3G026-FPC
+
+
+0
+2
+1
+RF_GSM
+M66
+
+
+0
+44
+44
+RF_GSM
+M66-DS
+
+
+0
+52
+52
+RF_Mixer
+MBA-15L
+
+
+0
+21
+10
+RF_VCO
+CVCO55CL
+
+
+0
+16
+16
+Relay
+IMXXGR
+
+
+0
+8
+8
+Relay
+SRD-05VDC
+
+
+0
+5
+5
+Resistors
+BOURNS_3296W_Vertical
+Potentiometer, vertical, Bourns 3296W, https://www.bourns.com/pdfs/3296.pdf
+Potentiometer vertical Bourns 3296W
+0
+3
+3
+Resistors
+R_0402
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Resistors
+R_0603
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Resistors
+R_0603_THICK_ARRAY
+SMD 0603 Thick Film Resistor Array
+
+0
+8
+8
+Resistors
+R_0805
+
+resistor
+0
+2
+2
+Resistors
+R_1206
+
+resistor
+0
+2
+2
+Switch_SMD
+DSHP02TSGET
+
+
+0
+4
+4
+Switch_SMD
+SW_SPDT_CK-JS102011SAQN
+http://www.ckswitches.com/media/1422/js.pdf
+switch spdt
+0
+3
+3
+Switch_SMD
+SW_SPDT_PCM12
+Ultraminiature Surface Mount Slide Switch
+
+0
+7
+3
+Switch_SMD
+TS-1185-C-A-A
+
+
+0
+2
+2
+Switch_THD
+ALPS_SKQUCAA010
+
+
+0
+6
+6
+Switch_THD
+APEM_25436NAH
+
+
+0
+3
+3
+Switch_THD
+EC12E2420801
+
+
+0
+7
+5
+Switch_THD
+SW_DIP_SPSTx08_Slide_6.7x21.88mm_W7.62mm_P2.54mm_LowProfile
+8x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 6.7x21.88mm (see e.g. https://www.ctscorp.com/wp-content/uploads/209-210.pdf), LowProfile
+DIP Switch SPST Slide 7.62mm 300mil LowProfile
+0
+16
+16
+Switch_THD
+SW_PUSH_6mm
+https://www.omron.com/ecb/products/pdf/en-b3f.pdf
+tact sw push 6mm
+0
+4
+2
+TestPoint
+Mounting_hole
+
+
+0
+1
+0
+TestPoint
+TestPoint_Keystone_5000
+Red color test point Keystone
+
+0
+1
+1
+TestPoint
+TestPoint_Keystone_5001
+Black color test point Keystone
+
+0
+1
+1
+TestPoint
+TestPoint_Keystone_5002
+White color test point Keystone
+
+0
+1
+1
+TestPoint
+TestPoint_Keystone_5003
+Orange color test point Keystone
+
+0
+1
+1
+TestPoint
+TestPoint_Keystone_5009
+Yellow color test point Keystone
+
+0
+1
+1
+TestPoint
+TestPoint_Pad_D1.2mm
+SMD pad as test Point, diameter 1.2mm
+test point SMD pad
+0
+1
+1
+Transformer
+MACOM_SM22
+
+
+0
+5
+5
