@@ -38,6 +38,27 @@ X Pin_2 2 -200 -50 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# Connector_Header_Header_01x03
+#
+DEF Connector_Header_Header_01x03 J 0 40 Y N 1 F N
+F0 "J" 0 250 50 H V C CNN
+F1 "Connector_Header_Header_01x03" 0 -150 50 H V C CNN
+F2 "" 0 -50 50 H I C CNN
+F3 "" 0 -50 50 H I C CNN
+$FPLIST
+ Connector*:*_1x??_*
+$ENDFPLIST
+DRAW
+S -50 200 50 -100 0 1 10 f
+S -50 -45 0 -55 1 1 6 N
+S -50 55 0 45 1 1 6 N
+S -50 155 0 145 1 1 6 N
+X Pin_1 1 -200 150 150 R 50 50 1 1 P
+X Pin_2 2 -200 50 150 R 50 50 1 1 P
+X Pin_3 3 -200 -50 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # Connector_Header_Header_01x04
 #
 DEF Connector_Header_Header_01x04 J 0 40 Y N 1 F N
