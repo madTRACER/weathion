@@ -1,0 +1,107 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 2
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector_Header:Header_01x04 J?
+U 1 1 5E5A025D
+P 4100 1750
+F 0 "J?" H 4180 1792 50  0000 L CNN
+F 1 "Header_01x04" H 4180 1701 50  0000 L CNN
+F 2 "" H 4100 1700 50  0001 C CNN
+F 3 "" H 4100 1700 50  0001 C CNN
+	1    4100 1750
+	1    0    0    -1  
+$EndComp
+Text GLabel 3800 1600 0    50   Input ~ 0
+5V
+Text GLabel 3800 1900 0    50   Input ~ 0
+GND
+Text GLabel 3800 1700 0    50   Input ~ 0
+NXT_TX
+Text GLabel 3800 1800 0    50   Input ~ 0
+NXT_RX
+Wire Wire Line
+	3800 1600 3900 1600
+Wire Wire Line
+	3800 1700 3900 1700
+Wire Wire Line
+	3800 1800 3900 1800
+Wire Wire Line
+	3800 1900 3900 1900
+$Comp
+L Connector_Header:Header_01x02 J?
+U 1 1 5E5A3835
+P 4100 2300
+F 0 "J?" H 4180 2342 50  0000 L CNN
+F 1 "Header_01x02" H 4180 2251 50  0000 L CNN
+F 2 "" H 4100 2150 50  0001 C CNN
+F 3 "" H 4100 2150 50  0001 C CNN
+	1    4100 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Header:Header_01x02 J?
+U 1 1 5E5A3EBB
+P 4100 2650
+F 0 "J?" H 4180 2692 50  0000 L CNN
+F 1 "Header_01x02" H 4180 2601 50  0000 L CNN
+F 2 "" H 4100 2500 50  0001 C CNN
+F 3 "" H 4100 2500 50  0001 C CNN
+	1    4100 2650
+	1    0    0    -1  
+$EndComp
+Text GLabel 3800 2250 0    50   Input ~ 0
+ESP_RX
+Text GLabel 3800 2350 0    50   Input ~ 0
+NXT_TX
+Text GLabel 3800 2600 0    50   Input ~ 0
+ESP_TX
+Text GLabel 3800 2700 0    50   Input ~ 0
+NXT_RX
+Wire Wire Line
+	3800 2250 3900 2250
+Wire Wire Line
+	3800 2350 3900 2350
+Wire Wire Line
+	3800 2600 3900 2600
+Wire Wire Line
+	3800 2700 3900 2700
+$Sheet
+S 1800 1650 1050 850 
+U 5E5A8A9D
+F0 "ESP12" 50
+F1 "esp12.sch" 50
+$EndSheet
+$Comp
+L Connector_USB:MOLEX_47346-0001 X?
+U 1 1 5E5C62FE
+P 3950 3400
+F 0 "X?" H 4180 3442 50  0000 L CNN
+F 1 "MOLEX_47346-0001" H 4180 3351 50  0000 L CNN
+F 2 "Connector_USB:USB_Micro-B_Molex_47346-0001" H 4050 2900 50  0001 C CIN
+F 3 "https://lcsc.com/product-detail/USB-Connectors_MOLEX_47346-0001_47346-0001_C132560.html" H 4150 3750 50  0001 C CNN
+F 4 "MOLEX" H 4050 3000 50  0001 C CIN "Manufacturer"
+	1    3950 3400
+	1    0    0    -1  
+$EndComp
+Text GLabel 3650 3200 0    50   Output ~ 0
+5V
+Text GLabel 3650 3600 0    50   Output ~ 0
+GND
+Wire Wire Line
+	3750 3200 3650 3200
+Wire Wire Line
+	3750 3600 3650 3600
+$EndSCHEMATC
