@@ -8,7 +8,7 @@ I'm planning to make this device compatible with many types of sensors and maybe
 
 ## Requirements and tools
 
-Schematics and PCB are made with [KiCAD](https://kicad-pcb.org/)
+Schematics and PCB - [KiCAD](https://kicad-pcb.org/)
 
 ESP8266 firmware - [Arduino IDE](https://www.arduino.cc/en/main/software) or any compatible plugin (I'm using [VSCodium](https://vscodium.com/) with [Arduino plugin](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino))
 
